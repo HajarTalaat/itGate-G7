@@ -1,1 +1,3 @@
 Adding new file remotely
+
+try to add and commit in one step
